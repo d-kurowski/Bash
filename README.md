@@ -1,2 +1,1 @@
-# SO2-lab
-Systemy Operacyjne - laboratorium czwartek nieparzysty
+Zbiór skryptów Bash przygotowanych na zajęcia Systemów Operacyjnych 2
