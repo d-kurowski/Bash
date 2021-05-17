@@ -117,6 +117,7 @@ def announce_winner():
 
 if __name__ == "__main__":
 
+
     board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
     game_over = False
     player_marker = " "
